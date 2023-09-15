@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+.card-cont{
+	
+	
+     min-width:190px;
+	min-height:300px;
+	text-align:center;
+	padding:10px;
+	border-radius:10px;
+	box-shadow:10px 1px 10px grey
+	
+}
+.imge{
+	width:150px
+}

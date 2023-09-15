@@ -16,3 +16,6 @@
 h2,h6,p{
 	text-align:center;
 }
+.lightbox:hover{
+	transform:scale(2);
+}
